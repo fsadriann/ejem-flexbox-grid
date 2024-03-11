@@ -6,4 +6,9 @@ trabajo individual de página web
  ### header y barra de navegación
 ![header](img/header.png)
 
+### zona de registro y atrículos
+
+![art1](img/articulos.png)
+![art2](img/articulos2.png)
+
 
