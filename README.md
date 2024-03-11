@@ -14,3 +14,7 @@ trabajo individual de página web
 ### testimonios
 
 ![testm](img/testm.png)
+
+### footer
+
+![footer](img/footer.png)
