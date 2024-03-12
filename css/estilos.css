@@ -168,7 +168,7 @@
   .title {
     color: black;
     font-size: 20px;
-    text-align: left;
+    text-align: center;
     padding-left: 10px;
     padding-top: 10px;
   }
@@ -325,6 +325,8 @@ footer {
     .navbar {
       height: 100px;
     }
+  }
+    
 /* Cambia la alineación. El logo del título se queda en la parte superior, los enlaces de navegación ahora se muestran debajo*/
 
 .navbar .flex {
@@ -380,7 +382,7 @@ footer {
 
 .circle {
       background-color: transparent;
-      border:3px solid purple;
+      border:3px solid #240000;
       height:90px;
       position: relative;
       top: -30px;
